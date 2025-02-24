@@ -6,25 +6,27 @@ Software Engineering Day1 Assignment
 
 # Part 1: Introduction to Software Engineering
 
-1. Explain what software engineering is and discuss its importance in the technology industry.
+**1. Explain what software engineering is and discuss its importance in the technology industry.
+**
 
 - Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
 
 - Importance in the Technology Industry: Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
-2. Identify and describe at least three key milestones in the evolution of software engineering.
-
+**2. Identify and describe at least three key milestones in the evolution of software engineering.
+**
 Key Milestones in the Evolution of Software Engineering
 
-    - 1968 NATO Conference on Software Engineering – Marked the formal recognition of software engineering as a discipline.
-    
-    - Introduction of Object-Oriented Programming (OOP) – Pioneered by languages like Smalltalk and later C++, improving code reusability and maintainability.
-    
-    - Agile Manifesto (2001) – Revolutionized software development by promoting flexibility, customer collaboration, and iterative development.
+- 1968 NATO Conference on Software Engineering – Marked the formal recognition of software engineering as a discipline.
 
-3. List and briefly explain the phases of the Software Development Life Cycle.
+- Introduction of Object-Oriented Programming (OOP) – Pioneered by languages like Smalltalk and later C++, improving code reusability and maintainability.
 
-Phases of the Software Development Life Cycle (SDLC)
+- Agile Manifesto (2001) – Revolutionized software development by promoting flexibility, customer collaboration, and iterative development.
+
+**1. List and briefly explain the phases of the Software Development Life Cycle.
+**
+**Phases of the Software Development Life Cycle (SDLC)
+**
 
     1. Requirement Analysis – Understanding and documenting user needs.
     
@@ -38,24 +40,24 @@ Phases of the Software Development Life Cycle (SDLC)
     
     6. Maintenance – Ongoing updates and bug fixes.
 
-4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+**4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
 
 Waterfall vs. Agile Methodologies
 
-   - Waterfall: A linear and sequential approach where each phase must be completed before moving to the next. Best suited for projects with well-defined requirements, such as government systems or safety-critical applications.
-   - Agile: An iterative approach that allows for continuous feedback and adaptation. Ideal for dynamic projects like web applications and startups where requirements frequently change.
+- Waterfall: A linear and sequential approach where each phase must be completed before moving to the next. Best suited for projects with well-defined requirements, such as government systems or safety-critical applications.
+- Agile: An iterative approach that allows for continuous feedback and adaptation. Ideal for dynamic projects like web applications and startups where requirements frequently change.
 
 1. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-    Roles in a Software Engineering Team
+Roles in a Software Engineering Team
 
-      - Software Developer: Writes, tests, and maintains code.
+- Software Developer: Writes, tests, and maintains code.
 
-      - Quality Assurance Engineer: Ensures software quality through testing.
+- Quality Assurance Engineer: Ensures software quality through testing.
 
-      - Project Manager: Oversees project timelines, budgets, and team coordination.
+- Project Manager: Oversees project timelines, budgets, and team coordination.
 
-2. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+1. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
     Importance of IDEs and VCS in Software Development
 
@@ -63,7 +65,7 @@ Waterfall vs. Agile Methodologies
 
       - Version Control Systems (VCS): Track code changes, enable collaboration, and facilitate rollbacks. Examples: Git, SVN.
 
-3. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+2. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
    - Common Challenges Faced by Software Engineers & Strategies to Overcome Them
 
@@ -73,7 +75,7 @@ Waterfall vs. Agile Methodologies
 
    - Keeping Up with Technologies – Engage in continuous learning and upskilling.
 
-4. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+3. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
     Types of Software Testing
 
